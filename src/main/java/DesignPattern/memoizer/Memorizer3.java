@@ -12,7 +12,7 @@ import java.util.concurrent.*;
  */
 public class Memorizer3<A, V> implements Computable<A, V> {
 
-    private final Map<A, Future<V>> cache = new ConcurrentHashMap<A, Future<V>>();
+    private final Map<A, Future<V>> cache = new ConcurrentHashMap<>();
     private final Computable<A, V> computable;
 
     public Memorizer3(Computable<A, V> computable) {
@@ -22,7 +22,7 @@ public class Memorizer3<A, V> implements Computable<A, V> {
     public V compute(final A args) throws InterruptedException {
         Future<V> future = cache.get(args);
         if (future == null){
-            FutureTask<V> futureTask = new FutureTask<V>(new Callable<V>() {
+            FutureTask<V> futureTask = new FutureTask<>(new Callable<V>() {
                 public V call() throws Exception {
                     return computable.compute(args);
                 }

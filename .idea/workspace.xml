@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="259d382c-4f05-45f6-a1d3-380f40528e7f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BeautyCode.iml" afterPath="$PROJECT_DIR$/BeautyCode.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java" afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer.java" afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java" afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer3.java" afterPath="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,13 +24,12 @@
       <file leaf-file-name="Memoizer1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="-40">
+              <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#234#240#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,13 +38,12 @@
       <file leaf-file-name="Memorizer2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="113">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#307#313#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,13 +52,12 @@
       <file leaf-file-name="Memorizer3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="560">
+              <caret line="14" column="66" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#331#345#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,13 +66,12 @@
       <file leaf-file-name="Memorizer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="400">
+              <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#212#226#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,10 +142,10 @@
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/Strategy/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Computable.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/ExpensiveFunction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Throwable2RunEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java" />
         <option value="$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer.java" />
       </list>
     </option>
@@ -168,7 +164,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="365" />
     <option name="y" value="46" />
     <option name="width" value="1400" />
@@ -242,15 +238,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeautyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeautyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="memoizer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -401,15 +388,15 @@
       <option name="presentableId" value="Default" />
       <updated>1523824290363</updated>
       <workItem from="1523824293333" duration="7808000" />
-      <workItem from="1524531986436" duration="4037000" />
+      <workItem from="1524531986436" duration="4392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11845000" />
+    <option name="totallyTimeSpent" value="12200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -730,19 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#240#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/program/Java/jdk1.8.0_161/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -780,39 +754,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        <state relative-caret-position="113">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#307#313#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memoizer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="560">
+          <caret line="14" column="66" lean-forward="false" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#331#345#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DesignPattern/memoizer/Memorizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="400">
+          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#212#226#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
           </folding>
         </state>
       </provider>

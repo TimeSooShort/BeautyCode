@@ -9,7 +9,7 @@ import java.util.Map;
  */
 public class Memoizer1<A, V> implements Computable<A, V> {
 
-    private final Map<A, V> cache = new HashMap<A, V>();
+    private final Map<A, V> cache = new HashMap<>();
     private final Computable<A, V> computable;
 
     public Memoizer1(Computable<A, V> computable) {
