@@ -1,4 +1,4 @@
-package DesignPattern.ProducerConsumer;
+package DesignPattern.JUCdp.ProducerConsumer;
 
 public class Main {
     public static void main(String[] args) {

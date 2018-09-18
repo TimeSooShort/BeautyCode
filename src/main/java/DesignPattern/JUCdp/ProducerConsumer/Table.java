@@ -1,4 +1,4 @@
-package DesignPattern.ProducerConsumer;
+package DesignPattern.JUCdp.ProducerConsumer;
 
 public class Table {
     private final String[] buffer;

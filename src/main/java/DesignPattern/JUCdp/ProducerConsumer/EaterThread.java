@@ -1,14 +1,13 @@
-package DesignPattern.ProducerConsumer;
+package DesignPattern.JUCdp.ProducerConsumer;
 
 import java.util.Random;
 
-public class MakerThread extends Thread {
+public class EaterThread extends Thread {
 
     private final Random random;
     private final Table table;
-    private static int id = 0;
 
-    public MakerThread(String name, Table table, long seed) {
+    public EaterThread(String name, Table table, long seed) {
         super(name);
         this.random = new Random(seed);
         this.table = table;
@@ -18,15 +17,10 @@ public class MakerThread extends Thread {
     public void run() {
         try {
             while (true){
+                table.take();
                 Thread.sleep(random.nextInt(1000));
-                String cake = "[ Cake No:" + nextId() + " by " + getName() + " ]";
-                table.put(cake);
             }
         } catch (InterruptedException e) {
         }
-    }
-
-    private static synchronized int nextId(){
-        return id++;
     }
 }

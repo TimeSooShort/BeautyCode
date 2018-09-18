@@ -1,4 +1,4 @@
-package DesignPattern.ProducerConsumer.Exchanger;
+package DesignPattern.JUCdp.ProducerConsumer.Exchanger;
 
 import java.util.concurrent.Exchanger;
 
